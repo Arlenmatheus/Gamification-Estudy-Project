@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamification Estudy", "Gamification Estudy\Gamification Estudy.csproj", "{FA8E20ED-7C76-4712-889C-32E0BCF9D52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8E20ED-7C76-4712-889C-32E0BCF9D52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8E20ED-7C76-4712-889C-32E0BCF9D52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8E20ED-7C76-4712-889C-32E0BCF9D52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8E20ED-7C76-4712-889C-32E0BCF9D52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F4780D-3E30-448B-9898-C7A243D96401}
+	EndGlobalSection
+EndGlobal
